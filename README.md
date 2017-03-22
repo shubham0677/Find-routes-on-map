@@ -1,4 +1,4 @@
-# FindRoutesOnMap--UCSDGraphs
+# Find Routes On Map
 A Java application that finds routes from a starting point to destination using different graph algorithms.
 (Breadth First Search, Dijkstra and A*)
 
